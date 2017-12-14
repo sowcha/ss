@@ -6,7 +6,7 @@ class eorodd
 {
 int n;
 Scanner in=new Scanner(System.in);
-in=n.nextInt();
+n=in.nextInt();
 if(n%2==0)
   System.out.println("even");
 else
